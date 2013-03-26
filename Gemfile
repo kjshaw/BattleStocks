@@ -36,6 +36,7 @@ gem 'bcrypt-ruby', :require => "bcrypt"
 
 # To use Jbuilder templates for JSON
 # gem 'jbuilder'
+#comment
 
 # Use unicorn as the app server
 # gem 'unicorn'
